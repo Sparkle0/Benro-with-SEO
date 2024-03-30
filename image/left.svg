@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+  <g id="Groupe_82" data-name="Groupe 82" transform="translate(-639 -570)">
+    <g id="Rectangle_40" data-name="Rectangle 40" transform="translate(639 570)" fill="#fff" stroke="#b85941" stroke-width="2">
+      <rect width="28" height="28" rx="14" stroke="none"/>
+      <rect x="1" y="1" width="26" height="26" rx="13" fill="none"/>
+    </g>
+    <g id="right-arrow" transform="translate(646 581)">
+      <g id="Groupe_4" data-name="Groupe 4" transform="translate(0 0)">
+        <path id="Tracé_1" data-name="Tracé 1" d="M.18,135.084h0l2.97-2.956a.569.569,0,0,1,.8.807L1.956,134.92H13.994a.568.568,0,0,1,0,1.137H1.956l1.995,1.984a.569.569,0,0,1-.8.807L.18,135.892h0A.57.57,0,0,1,.18,135.084Z" transform="translate(-0.012 -131.962)" fill="#b85941"/>
+      </g>
+    </g>
+  </g>
+</svg>

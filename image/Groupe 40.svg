@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <g id="Groupe_39" data-name="Groupe 39" transform="translate(-736 -600)">
+    <g id="Groupe_38" data-name="Groupe 38" transform="translate(4 96)">
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="35" cy="35" r="35" transform="translate(732 504)" fill="#f6f4fd"/>
+    </g>
+    <path id="time" d="M15,0A15,15,0,1,0,30,15,14.992,14.992,0,0,0,15,0Zm0,27.656A12.656,12.656,0,1,1,27.656,15,12.649,12.649,0,0,1,15,27.656Zm1.172-15.97V5.625a1.172,1.172,0,1,0-2.344,0v6.061a3.514,3.514,0,0,0-2,4.829L9.22,19.123a1.172,1.172,0,0,0,1.657,1.657l2.608-2.608a3.515,3.515,0,1,0,2.687-6.486ZM15,16.172A1.172,1.172,0,1,1,16.172,15,1.173,1.173,0,0,1,15,16.172Z" transform="translate(756 620)" fill="#b85941"/>
+  </g>
+</svg>

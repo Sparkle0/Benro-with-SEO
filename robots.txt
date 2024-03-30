@@ -1,0 +1,6 @@
+User-agent:*
+Disallow: /logs/
+Disallow: /ssl/
+Disallow: /image/
+
+Sitemap : https://benroindustries.com/sitemap.xml

@@ -1,0 +1,21 @@
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+# 301 REDIRECT HTTP TO HTTPS
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+# 301 REDIRECT WWW TO NON-WWW
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1/$1 [R=301,L]
+</IfModule>
+
+deny from 197.114.195.135
